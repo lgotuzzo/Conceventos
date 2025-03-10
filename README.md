@@ -10,7 +10,7 @@ Cada mes agregamos eventos variados para que siempre tengas algo divertido que h
 
 Es muy fácil acceder al calendario y agregar los eventos que más te interesen. Solo tienes que hacer clic en el siguiente enlace y ver lo que está pasando en la ciudad:
 
-[**Calendario de Eventos en Concepción**]([https://calendar.google.com/calendar/embed?src=503528309cedbb2e46727a3da1891488630b101058bfabaecf3688a42bb3987a%40group.calendar.google.com&ctz=America%2FSantiago))]
+[**Calendario de Eventos en Concepción**](https://calendar.google.com/calendar/embed?src=503528309cedbb2e46727a3da1891488630b101058bfabaecf3688a42bb3987a%40group.calendar.google.com&ctz=America%2FSantiago)
 
 ### ¿Te gustaría añadir un evento? ✨
 
