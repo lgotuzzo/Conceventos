@@ -8,13 +8,15 @@ Cada mes agregamos eventos variados para que siempre tengas algo divertido que h
 
 ## ¿Cómo usar este calendario? 🖱️
 
-Es muy fácil acceder al calendario y agregar los eventos que más te interesen. Solo tienes que hacer clic en el siguiente enlace y ver lo que está pasando en la ciudad:
+Es muy fácil acceder al calendario y ver lo que está pasando en la ciudad. Solo tienes que hacer clic en el siguiente enlace:
 
 [**Calendario de Eventos en Concepción**](https://calendar.google.com/calendar/embed?src=503528309cedbb2e46727a3da1891488630b101058bfabaecf3688a42bb3987a%40group.calendar.google.com&ctz=America%2FSantiago)
 
 ### ¿Te gustaría añadir un evento? ✨
 
-Si tienes un evento en mente y quieres que lo agreguemos, ¡haz un PR (Pull Request) en este repositorio! 🎉 Así, todos los miembros de la comunidad podrán verlo. La idea es que entre todos podamos mantener el calendario actualizado con las actividades más interesantes. 📅
+Actualmente, el calendario está configurado solo para que puedas ver los eventos. **Para agregar eventos, es necesario pedir permiso**. Si deseas que tu evento sea incluido, ¡no dudes en contactarme para que te dé acceso de edición! 😊
+
+La idea es que entre todos podamos mantener el calendario actualizado con las actividades más interesantes. 📅 Así que, si tienes algo que aportar, ¡serás muy bienvenido! 
 
 ### ¿Qué tipo de eventos pueden aparecer? 🤩
 
