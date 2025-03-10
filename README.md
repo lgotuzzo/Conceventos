@@ -1,4 +1,4 @@
-# 🗓️ Calendario gratuito de Eventos en la Provincia de Concepción - Ñamku ñi pu newen kimün üñümün ñi provincia Concepción
+# 🗓️ Calendario gratuito de Eventos en la Provincia de Concepción - Ñamku ñi pu newen kimün ñi provincia Concepción - Free Events Calendar in the Province of Concepción.
 
 ¡Bienvenidos a todos los que visitan o viven en **Concepción**, **Coronel**, **Chiguayante**, **Florida**, **Hualpén**, **Hualqui**, **Lota**, **Penco**, **San Pedro de la Paz**, **Santa Juana**, **Talcahuano** y **Tomé**! Este es el lugar donde podrás encontrar todos los eventos musicales, deportivos, culturales y mucho más.
 
