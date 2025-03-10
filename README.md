@@ -1,6 +1,6 @@
 # 🗓️ Calendario gratuito de Eventos en la Provincia de Concepción
 
-¡Bienvenidos a todos los que visitan o viven en **Concepción**, **Coronel**, **Chiguayante**, **Florida**, **Hualpén**, **Hualqui**, **Lota**, **Penco**, **San Pedro de la Paz**, **Santa Juana**, **Talcahuano**, **Tomé**! Este es el lugar donde podrás encontrar todos los eventos musicales, deportivos, culturales y mucho más.
+¡Bienvenidos a todos los que visitan o viven en **Concepción**, **Coronel**, **Chiguayante**, **Florida**, **Hualpén**, **Hualqui**, **Lota**, **Penco**, **San Pedro de la Paz**, **Santa Juana**, **Talcahuano** y **Tomé**! Este es el lugar donde podrás encontrar todos los eventos musicales, deportivos, culturales y mucho más.
 
 
 ## ¿Qué puedes encontrar aquí?
